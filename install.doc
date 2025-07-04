@@ -1,0 +1,4 @@
+// i18next
+npm install remix-i18next@6 i18next react-i18next i18next-browser-languagedetector
+npm install i18next-http-backend i18next-fs-backend
+// Shadcn   
